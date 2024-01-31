@@ -1,1 +1,4 @@
 # GIS-Portfolio
+After taking  Geospatial Problem Solving course at North Carolina State University, I developed this portfolio to showcase the skills and techniques I have developed using Geographic Information Science (GIS) technology. Geospatial analysis supports evidence-based decision making as it relates to the questions of where and why. Even more, this technology creates an integrated analysis between interactions and place for spatial understanding and awareness. Beyond the course objectives and learning outcomes, I have learned to use these skills to apply advanced geospatial analysis to real-world problems and gained a newfound  interest in understanding spatial phenomena. I have even integrated these GIS skills to my position as Research Association  in the Rhea Lab at NCSU College of Veterinary Medicine and have prepared maps for publication.
+
+See portfolio here: https://grace-gis-portfolio.wordpress.ncsu.edu/
